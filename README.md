@@ -23,4 +23,4 @@ This information belongs to and credit for the information is solely due and tha
 Summary: Mothership class file information in CLI.
 
 
-Executable available upon request.
+Executable available upon request and or if you have the link/a copy.
