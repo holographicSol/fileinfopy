@@ -17,7 +17,9 @@ Notice: I did not write this information. I wrote yet another web scraper to att
 pythonic list files (python modules in this case) programmatically.
 
 I believe this kind of information should exist natively on systems through some medium, in this case the command
-line interface.
+line interface. If offline and need to know what a file is then this software may be able to assist by at least
+pointing one in the right direction as far as description of the file type and what known software can be used with
+the file type, all offline.
 
 This information belongs to and credit for the information is solely due and thanks to https://fileinfo.com.
 
@@ -25,6 +27,7 @@ This information belongs to and credit for the information is solely due and tha
 Summary: Mothership class file information via CLI.
 
 Updater may be outdated.
+
 
 
 
